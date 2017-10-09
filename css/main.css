@@ -56,7 +56,7 @@ blockquote cite {
   font-size: .8rem;
 }
 
-dt:not(.servingsize) {
+dt {
   font-weight: bold;
 }
 
